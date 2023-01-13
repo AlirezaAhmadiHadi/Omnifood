@@ -510,8 +510,8 @@ cite img {
     color: #fff;
 }
 
-.btn-sign-spetial:link,
-.btn-sign-spetial:visited {
+.btn-sign-special:link,
+.btn-sign-special:visited {
     display: inline-block;
     padding: 10px 30px;
     font-weight: 300;
@@ -525,8 +525,8 @@ cite img {
 }
 
 
-.btn-sign-spetial:hover,
-.btn-sign-spetial:active {
+.btn-sign-special:hover,
+.btn-sign-special:active {
     background-color: #cf6d17;
     border: 2px solid #cf6d17;
 }
@@ -731,22 +731,3 @@ footer p {
     text-align: center;
     margin-top: 20px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
